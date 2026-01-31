@@ -60,7 +60,8 @@ That's it! The real API key and default model are configured in the proxy's web 
 |----------|-------------|
 | `GET /proxy/providers` | List all available providers |
 | `GET /proxy/provider/<name>` | Switch to a provider |
-| `GET /health` | Health check / status |
+| `GET /proxy/status` | Current status with details |
+| `GET /health` | Health check |
 
 ### Web Console
 
@@ -134,7 +135,8 @@ clawd-proxy
 |------|------|
 | `GET /proxy/providers` | 列出所有可用的 providers |
 | `GET /proxy/provider/<name>` | 切换到指定 provider |
-| `GET /health` | 健康检查 / 状态 |
+| `GET /proxy/status` | 当前状态详情 |
+| `GET /health` | 健康检查 |
 
 ### Web 控制台
 
