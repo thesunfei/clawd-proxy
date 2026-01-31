@@ -1,4 +1,4 @@
-# LLM Proxy v2.0
+# Clawd Proxy v2.0
 
 [English](#english) | [中文](#中文)
 
