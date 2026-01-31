@@ -5,13 +5,21 @@
   "main": "./bin/index.js",
   "preferGlobal": true,
   "bin": {
-    "clawd-proxy": "./bin/index.js"
+    "clawd-proxy": "bin/index.js"
   },
   "scripts": {
     "start": "node ./bin/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["llm", "proxy", "openai", "api", "claude", "gpt", "openrouter"],
+  "keywords": [
+    "llm",
+    "proxy",
+    "openai",
+    "api",
+    "claude",
+    "gpt",
+    "openrouter"
+  ],
   "author": {
     "name": "Fei Sun",
     "email": "thesunfei@hotmail.com"
